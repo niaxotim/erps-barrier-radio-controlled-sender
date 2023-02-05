@@ -9,6 +9,8 @@ In this challenge, we are going to make the transmitter for your radio controlle
 
 If you haven't done so already, you need to follow [this tutorial first](https://makecode.microbit.org/#tutorial:github:niaxotim/erps-barrier-radio-controlled/erps-barrier-radio-controlled-tutorial).  
   
+Don't forget, you need *a second micro:bit* for this tutorial!  
+  
 ![Radio barrier](https://raw.githubusercontent.com/niaxotim/erps-barrier-radio-controlled-sender/master/assets/no_entry.png)
 
 ## Setting up our radio
